@@ -1,0 +1,131 @@
+/*!
+Theme Name: WOW Shop
+Theme URI: http://underscores.me/
+Author: ChampTheme
+Author URI: http://champtheme.net
+Description: ChampTheme WordPress Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: wow-shop
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+
+.site-branding a {
+    color: #333;
+}
+
+.site-branding h1 {
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 0;
+    padding: 12px 0;
+}
+
+.main-navigation {
+    text-align: center;
+}
+
+.main-navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.main-navigation li {
+    display: inline-block;
+    position: relative;
+}
+
+.main-navigation li a {
+    color: #333;
+    padding: 15px;
+    font-size: 17px;
+    display: block;
+}
+
+.header-right-content a {
+    color: #333;
+    display: inline-block;
+    padding: 15px;
+}
+
+.header-right-content a:last-child {
+    padding-right: 0;
+}
+
+.site-info {
+    background: #ebebeb;
+    padding: 15px 0;
+}
+
+.site-info a {
+    color: #333;
+}
+
+.social-links a {
+    color: #7d7d7d;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.social-links a:hover {
+    color: #101010;
+}
+
+.page {
+    margin: 0 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+.menu-footer-1-container ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.menu-footer-1-container li {
+    padding: 5px 0;
+}
+
+.menu-footer-1-container li a {
+    color: #333;
+}
+
+.menu-footer-2-container {
+    margin-top: 20px;
+}
+
+.menu-footer-2-container ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-footer-2-container li {
+    padding: 5px 0;
+}
+
+.menu-footer-2-container li a {
+    color: #333;
+}
+
+.widget.widget_text .textwidget {
+    margin-top: 20px;
+}
+
+
+.widget.widget_text .textwidget:first-child {
+    margin-top: 0;
+}

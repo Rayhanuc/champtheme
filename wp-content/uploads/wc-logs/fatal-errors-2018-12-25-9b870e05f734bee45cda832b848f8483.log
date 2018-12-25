@@ -1,0 +1,57 @@
+2018-12-25T06:34:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function shortcode_atts(), 1 passed in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php on line 18 and at least 2 expected in D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php:533
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php(18): shortcode_atts(Array)
+#1 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(319): shop_alert_shortcode('', '', 'alert')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(alert)...', 'do_shortcode_ta...', '<p>[alert]<br /...')
+#4 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): do_shortcode('<p>[alert]<br /...')
+#5 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters('<p>[alert]<br /...', Array)
+#6 D:\xampp\htdocs\champtheme\wp-includes\post-template.php(240): apply_filters('the_content', '[alert]\r\n[headi...')
+#7 D:\xampp in D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php on line 533
+
+2018-12-25T10:55:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_kses(), 1 passed in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php on line 24 and at least 2 expected in D:\xampp\htdocs\champtheme\wp-includes\kses.php:526
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php(24): wp_kses('This is text al...')
+#1 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(319): shop_alert_shortcode(Array, 'This is text al...', 'alert')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(alert)...', 'do_shortcode_ta...', '<p>[alert type=...')
+#4 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): do_shortcode('<p>[alert type=...')
+#5 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters('<p>[alert type=...', Array)
+#6 D:\xampp\htdocs\champtheme\wp-includes\post-template.php(240): apply_filters('the_content', '[alert type="da... in D:\xampp\htdocs\champtheme\wp-includes\kses.php on line 526
+
+2018-12-25T13:05:10+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attacment_image_src() in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php:49
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(319): shop_image_shortcode('', '', 'image')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(alert|...', 'do_shortcode_ta...', '[alert city="Bo...')
+#3 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): do_shortcode('[alert city="Bo...')
+#4 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters('[alert city="Bo...', Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\post-template.php(240): apply_filters('the_content', '[alert city="Bo...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\template-parts\content-page.php(21): the_content()
+#7 D:\xampp\htdocs\champtheme\wp-includes\template.php(690): require('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champt in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php on line 49
+
+2018-12-25T13:05:59+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attacment_image_src() in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php:49
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(319): shop_image_shortcode('', '', 'image')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(alert|...', 'do_shortcode_ta...', '[alert city="Bo...')
+#3 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): do_shortcode('[alert city="Bo...')
+#4 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters('[alert city="Bo...', Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\post-template.php(240): apply_filters('the_content', '[alert city="Bo...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\template-parts\content-page.php(21): the_content()
+#7 D:\xampp\htdocs\champtheme\wp-includes\template.php(690): require('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champt in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php on line 49
+
+2018-12-25T13:06:17+00:00 CRITICAL Uncaught Error: Call to undefined function wp_get_attacment_image_src() in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php:49
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(319): shop_image_shortcode('', '', 'image')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 D:\xampp\htdocs\champtheme\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(alert|...', 'do_shortcode_ta...', '[alert city="Bo...')
+#3 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): do_shortcode('[alert city="Bo...')
+#4 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters('[alert city="Bo...', Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\post-template.php(240): apply_filters('the_content', '[alert city="Bo...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\template-parts\content-page.php(21): the_content()
+#7 D:\xampp\htdocs\champtheme\wp-includes\template.php(690): require('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champt in D:\xampp\htdocs\champtheme\wp-content\plugins\shop-toolkit\shop-toolkit.php on line 49
+

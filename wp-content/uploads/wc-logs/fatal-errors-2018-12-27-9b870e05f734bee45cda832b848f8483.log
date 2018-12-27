@@ -1,0 +1,12 @@
+2018-12-27T06:16:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-includes\wp-db.php on line 1924
+
+2018-12-27T06:16:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-includes\wp-db.php on line 1924
+
+2018-12-27T11:11:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 16
+
+2018-12-27T11:12:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-admin\includes\admin.php on line 10
+
+2018-12-27T14:05:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-content\plugins\js_composer\config\grids\vc-grids-functions.php on line 2
+
+2018-12-27T14:18:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\champtheme\wp-includes\pluggable-deprecated.php on line 18
+

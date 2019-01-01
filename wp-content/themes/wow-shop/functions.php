@@ -178,3 +178,13 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/inc/woocommerce.php';
 }
+
+/**
+ * Theme option & metabox framework / CodeStar framework file include.
+ */
+require get_template_directory() . '/inc/cs-framework/cs-framework.php';
+
+/**
+ * metabox-and-options
+ */
+require get_template_directory() . '/inc/metabox-and-options.php';

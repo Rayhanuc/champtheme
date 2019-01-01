@@ -1,0 +1,40 @@
+2018-12-29T15:27:54+00:00 CRITICAL Uncaught Error: Call to undefined function __esc_html() in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php:14
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): wow_shop_theme_page_metabox(Array)
+#1 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(33): apply_filters('cs_metabox_opti...', Array)
+#3 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(45): CSFramework_Metabox->__construct(Array)
+#4 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\config\metabox.config.php(201): CSFramework_Metabox::instance(Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\cs-framework-path.php(117): load_template('D:\\xampp\\htdocs.. in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php on line 14
+
+2018-12-29T15:27:55+00:00 CRITICAL Uncaught Error: Call to undefined function __esc_html() in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php:14
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): wow_shop_theme_page_metabox(Array)
+#1 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(33): apply_filters('cs_metabox_opti...', Array)
+#3 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(45): CSFramework_Metabox->__construct(Array)
+#4 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\config\metabox.config.php(201): CSFramework_Metabox::instance(Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\cs-framework-path.php(117): load_template('D:\\xampp\\htdocs.. in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php on line 14
+
+2018-12-29T15:28:42+00:00 CRITICAL Uncaught Error: Call to undefined function __esc_html() in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php:14
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): wow_shop_theme_page_metabox(Array)
+#1 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(33): apply_filters('cs_metabox_opti...', Array)
+#3 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(45): CSFramework_Metabox->__construct(Array)
+#4 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\config\metabox.config.php(201): CSFramework_Metabox::instance(Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\cs-framework-path.php(117): load_template('D:\\xampp\\htdocs.. in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php on line 14
+
+2018-12-29T15:28:43+00:00 CRITICAL Uncaught Error: Call to undefined function __esc_html() in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php:14
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): wow_shop_theme_page_metabox(Array)
+#1 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(33): apply_filters('cs_metabox_opti...', Array)
+#3 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\classes\metabox.class.php(45): CSFramework_Metabox->__construct(Array)
+#4 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\config\metabox.config.php(201): CSFramework_Metabox::instance(Array)
+#5 D:\xampp\htdocs\champtheme\wp-includes\template.php(688): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\cs-framework\cs-framework-path.php(117): load_template('D:\\xampp\\htdocs.. in D:\xampp\htdocs\champtheme\wp-content\themes\wow-shop\inc\metabox-and-options.php on line 14
+

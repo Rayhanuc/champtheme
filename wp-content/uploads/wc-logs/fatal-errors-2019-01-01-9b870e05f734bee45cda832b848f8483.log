@@ -1,0 +1,84 @@
+2019-01-01T16:40:10+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\index.php(17): require('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
+2019-01-01T16:40:17+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\index.php(17): require('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
+2019-01-01T16:40:25+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\index.php(17): require('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
+2019-01-01T16:41:13+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-admin\admin.php(31): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\wp-admin\index.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
+2019-01-01T16:41:18+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-admin\admin.php(31): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\wp-admin\index.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
+2019-01-01T16:41:25+00:00 CRITICAL Uncaught Error: Class 'MailChimp_WooCommerce' not found in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php:898
+Stack trace:
+#0 D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php(909): run_mailchimp_woocommerce()
+#1 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(286): mailchimp_on_all_plugins_loaded('')
+#2 D:\xampp\htdocs\champtheme\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 D:\xampp\htdocs\champtheme\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\champtheme\wp-settings.php(327): do_action('plugins_loaded')
+#5 D:\xampp\htdocs\champtheme\wp-config.php(89): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\champtheme\wp-load.php(37): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\champtheme\wp-admin\admin.php(31): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\champtheme\wp-admin\index.php(10): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\champtheme\wp-content\plugins\mailchimp-for-woocommerce\bootstrap.php on line 898
+
